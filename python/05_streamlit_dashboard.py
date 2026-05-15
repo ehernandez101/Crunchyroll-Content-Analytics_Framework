@@ -9,23 +9,46 @@ st.set_page_config(
     layout="wide"
 )
 
-st.markdown(
+st.markdown( 
     """
     <style>
     .stApp {
-        background-color: #0F172A;
+        background: linear-gradient(180deg, #1E293B 0%, #0F172A 45%, #020617 100%);
         color: #F8FAFC;
     }
+
+    h1, h2, h3, p, label {
+        color: #F8FAFC !important;
+    }
+
     div[data-testid="stMetric"] {
+        background-color: #1E293B;
+        border: 1px solid #475569;
+        padding: 20px;
+        border-radius: 16px;
+        box-shadow: 0px 4px 20px rgba(0,0,0,0.35);
+    }
+
+    div[data-testid="stMetricLabel"] {
+        color: #CBD5E1 !important;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    div[data-testid="stMetricValue"] {
+        color: #FFFFFF !important;
+        font-size: 34px;
+        font-weight: 800;
+    }
+
+    section[data-testid="stSidebar"] {
         background-color: #111827;
-        border: 1px solid #334155;
-        padding: 16px;
-        border-radius: 14px;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
+
 
 st.title("🎌 Crunchyroll Content Analytics Framework")
 st.write("Anime content analytics dashboard focused on engagement, retention, churn risk, and viewer journey performance.")
