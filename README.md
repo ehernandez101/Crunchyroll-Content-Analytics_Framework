@@ -26,6 +26,19 @@ The framework models how analytics teams evaluate anime title performance, user 
 
 ---
 
+# 📸 Dashboard Preview 
+
+## Executive Overview
+![Dashboard Overview](dashboard/dashboard_overview.png)
+
+## Viewer Engagement Analytics
+![Engagement Analytics](dashboard/engagement_analytics.png)
+
+## Retention & Churn Analysis
+![Retention Dashboard](dashboard/retention_dashboard.png)
+
+---
+
 # 📈 KPIs Analyzed
 
 | KPI | Description |
