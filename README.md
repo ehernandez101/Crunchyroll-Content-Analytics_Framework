@@ -48,6 +48,51 @@ The framework models how analytics teams evaluate anime title performance, user 
 
 ---
 
+# 🧪 Project Methodology 
+
+## Data Wrangling Process
+
+The synthetic streaming dataset was designed to simulate:
+- viewer engagement behavior
+- retention patterns
+- binge watching trends
+- churn risk indicators
+- regional content preferences
+
+The data preparation process included:
+- normalization of anime title metadata
+- KPI standardization
+- engagement metric calculations
+- churn risk segmentation
+- regional viewer analysis
+
+## Analytical Approach
+
+This project focused on:
+- understanding retention drivers
+- measuring content engagement
+- identifying churn indicators
+- analyzing viewer watch behavior
+- evaluating title performance trends
+
+## Expected Trends
+
+Expected findings included:
+- higher engagement improving retention
+- binge viewing lowering churn risk
+- popular genres driving repeat sessions
+- regional differences in watch behavior
+
+## Key Findings
+
+The analysis demonstrated:
+- strong correlation between watch minutes and retention
+- increased churn risk after inactivity spikes
+- fantasy/action genres producing highest engagement
+- repeat session behavior improving retention outcomes
+
+---
+
 # 🧠 Business Problems Solved
 
 - Which anime titles drive retention?
