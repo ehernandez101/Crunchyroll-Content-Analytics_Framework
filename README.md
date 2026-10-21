@@ -19,7 +19,6 @@ The framework models how analytics teams evaluate anime title performance, user 
 ✅ Content performance KPI framework  
 ✅ Churn prediction modeling  
 ✅ Retention intelligence reporting  
-✅ Discovery → Watch → Return attribution analysis  
 ✅ Experimentation analytics  
 ✅ Executive-style dashboard visuals  
 ✅ Streamlit dashboard integration
@@ -149,11 +148,6 @@ Crunchyroll-Content-Analytics-Framework/
 - Subscriber loyalty analysis
 - Churn prediction modeling
 - Retention lift measurement
-
-### Attribution Analytics
-- Discovery → Click → Watch workflows
-- Homepage rail performance
-- Recommendation effectiveness
 
 ### Experimentation
 - Thumbnail testing
