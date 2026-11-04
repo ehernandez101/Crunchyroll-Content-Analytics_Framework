@@ -34,12 +34,6 @@ The framework models how analytics teams evaluate anime title performance, user 
 
 ---
 
-# 📸 Dashboard Preview 
-
-## Executive Overview
-![Crunchyroll Dashboard](dashboard/Crunchyroll%20Streamlit.png)
-
----
 
 # 📈 KPIs Analyzed
 
