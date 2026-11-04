@@ -1,0 +1,17 @@
+metric,value
+users_ad,564577.0
+users_holdout,23524.0
+conv_rate_ad_pct,2.555
+conv_rate_holdout_pct,1.785
+lift_pts,0.769
+lift_ci_low_pts,0.595
+lift_ci_high_pts,0.943
+relative_lift_pct,43.1
+p_value,0.0
+conversions_in_ad_group,14423.0
+conversions_without_campaign_est,10080.0
+incremental_conversions_est,4343.0
+incremental_share_of_conversions_pct,30.1
+incremental_share_ci_low_pct,23.3
+incremental_share_ci_high_pct,36.9
+incremental_conv_per_1000_users,7.69

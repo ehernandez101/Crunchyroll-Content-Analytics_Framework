@@ -1,0 +1,10 @@
+check,value
+day_mix_chi2_p,0.0
+day_mix_cramers_v,0.02
+hour_mix_chi2_p,0.0
+hour_mix_cramers_v,0.0181
+impressions_ks_statistic,0.0397
+mean_impressions_ad,24.8234
+mean_impressions_holdout,24.7611
+lift_pts_unadjusted,0.7692
+lift_pts_adjusted_for_day_hour_impressions,0.7622
