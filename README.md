@@ -2,6 +2,15 @@
 
 > Anime streaming analytics framework focused on engagement intelligence, churn prediction, retention analytics, experimentation, and executive KPI reporting.
 
+## Featured project: campaign incrementality (real public data)
+
+How many of a campaign's credited conversions did it actually cause? This project answers that with a holdout comparison on a public advertising dataset of 588,101 users. About 3 in 10 credited conversions were incremental, and 86% of the incremental conversions came from the 11.7% of users with the most impressions.
+
+- [Live Tableau dashboard](https://public.tableau.com/app/profile/enrique.hernandez2674/viz/CrunchyRoll/Dashboard1)
+- [Code, SQL, and write-up](campaign-incrementality/)
+
+This is a method demonstration on public data, not Crunchyroll data. The framework below uses synthetic data generated in `python/00_generate_content_data.py`.
+
 ---
 
 # 📊 Executive Overview
@@ -178,6 +187,5 @@ SQL • Python • Streaming Analytics • KPI Reporting
 - Databricks integration
 - PySpark pipelines
 - AWS deployment
-- Tableau dashboards
 - Real-time streaming analytics
 - Recommendation engine modeling
